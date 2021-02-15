@@ -1,6 +1,8 @@
 # Insanidade Instantanea
 
-Código em Java para a solução do Puzzle de Insanidade Instantânea utilizando backtracking. Em resumo, todas as possibilidades de combinação dos cubos são formadas e analisadas, a fim de achar as combinações válidas.
+Código em Java para a solução do [Puzzle de Insanidade Instantânea](https://en.wikipedia.org/wiki/Instant_Insanity) utilizando backtracking. Em resumo, todas as possibilidades de combinação dos cubos são formadas e analisadas, a fim de achar as combinações válidas.
+
+O algoritmo leva em consideração que os cubos estão empilhados - ou seja, os lados de cima e baixo são irrelevantes.
 
 ## Entrada
 Deve-se mandar como entrada:
